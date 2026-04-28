@@ -1,5 +1,4 @@
 # Hospital-Queue-Optimization-Patient-Flow-Analysis-System-
-#  Hospital Queue Optimization System
 
 ##  Project Overview
 
